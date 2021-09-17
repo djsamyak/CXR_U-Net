@@ -1,5 +1,5 @@
 # U-Net
-A simple U-Net implementation.
+A simple U-Net implementation for biomdeical image segmentation.
 
 To run the U-Net:
 1. Create a folder data in the same directory as other files.
